@@ -18,6 +18,7 @@
           <e p="HeartUI.cs" t="Include" />
           <e p="MovingPlat.cs" t="Include" />
           <e p="PauseMenu.cs" t="Include" />
+          <e p="Platform.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="PlayerAttack.cs" t="Include" />
           <e p="Scroll.cs" t="Include" />

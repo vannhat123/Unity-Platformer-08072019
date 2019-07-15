@@ -152,6 +152,7 @@ public class Player : MonoBehaviour
     // Hàm này để xử lí khi player va chạm vào Spike ( bình thường sẽ vẫn ở trong và không bị gây dame nữa)
     // truyền vận tốc cho nó khi ở trong để khi vào spike tự thay đổi vận tốc nhỏ.
     // sau đó AddForce tác dụng lực. hướng x ngược lại. còn y thì đẩy lực lên trên 1 chút.
+    // knockdir tọa độ hiện tại sau đó -x100. knockspown lực tác dụng nhảy lên theo trục y.
     public void Knockback(float Knockpowm, Vector2 Knockdir)
     {
         r2.velocity = new Vector2(0, 0);

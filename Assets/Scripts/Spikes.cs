@@ -15,6 +15,7 @@ public class Spikes : MonoBehaviour
     }
 
     // Update is called once per frame
+    // sau khi dẫm phải mũi nhọn sẽ bị nhảy lên 1 lực 350f. và tọa độ giữ nguyên.
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
