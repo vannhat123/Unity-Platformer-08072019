@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\84976\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\84976\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Platfomer0807.110883008.00" t="ExcludeRecursive" />
+    <e p="C:\Users\84976\Desktop\Unity\Platfomer0807" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AttackCone.cs" t="Include" />
+          <e p="AttackTrigger.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="CameraFollow.cs" t="Include" />
+          <e p="Door.cs" t="Include" />
+          <e p="FallingPlat.cs" t="Include" />
+          <e p="Gamemaster.cs" t="Include" />
+          <e p="GroundCheck.cs" t="Include" />
+          <e p="HeartUI.cs" t="Include" />
+          <e p="MovingPlat.cs" t="Include" />
+          <e p="PauseMenu.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerAttack.cs" t="Include" />
+          <e p="Scroll.cs" t="Include" />
+          <e p="Spikes.cs" t="Include" />
+          <e p="TurretAI.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Platfomer0807.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
